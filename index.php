@@ -9,8 +9,6 @@
 <body>
   <section class="main-wrapper">
     <div class="branding">
-      <h1 class="logo">facebook</h1>
-      <h2 class="slogan">Facebook helps you connect and share with the people in your life.</h2>
     </div>
 
     <div>
