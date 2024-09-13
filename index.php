@@ -5,8 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="style.css">
   <title>Watch-video</title>
+<title>Facebook</title>
 </head>
 <body>
+  <section class="main-wrapper">
+    <div class="branding">
+      <h1 class="logo">facebook</h1>
+      <h2 class="slogan">Facebook helps you connect and share with the people in your life.</h2>
+    </div>
   <section class="main-wrapper">
     <div class="branding">
     </div>
